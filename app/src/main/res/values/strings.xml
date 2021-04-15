@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="logEmail">Masukan Email</string>
+    <string name="logPass">Masukan Password</string>
+    <string name="login">Login</string>
+    <string name="dataKontak">Data Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="noTelp">Nomor Telepon</string>
+    <string name="dftrAkun">Belum Terdaftar?</string>
+    <string name="namaItem">Nama Item</string>
+    <string name="lihatData">Lihat Data</string>
+    <string name="lihatNomor">Lihat Nomor</string>
+    <string name="dtilKontak">Detail Kontak</string>
+    <string name="cariKontak">Masukan Kata Pencarian</string>
+    <string name="pendaftaran">Pendaftaran</string>
+    <string name="addNama">Masukan Nama</string>
+    <string name="addAlamat">Masukan Alamat</string>
+    <string name="jnsKelamin">Jenis Kelamin</string>
+    <string name="cowo">Laki-laki</string>
+    <string name="cewe">Perempuan</string>
+    <string name="agama">Agama</string>
+    <string name="islam">Islam</string>
+    <string name="katolik">Katolik</string>
+    <string name="kristen">Kristen</string>
+    <string name="hindu">Hindu</string>
+    <string name="budha">Budha</string>
+    <string name="konghucu">Konghucu</string>
+    <string name="pKepercayaan">Penganut Kepercayaan</string>
+    <string name="rePass">Masukan kembali Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="batal">Batal</string>
+</resources>
